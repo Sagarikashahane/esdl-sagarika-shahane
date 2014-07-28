@@ -13,4 +13,8 @@ cout<<c;
  a=10,b=20;   //hardcode values
  c=a*b;    //multiplication of two numbers :)
 cout<<c;
+
+a=10,b=20;   //hardcode values
+ c=a/b;    //division of two numbers :)
+cout<<c;
 }
