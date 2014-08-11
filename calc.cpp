@@ -6,6 +6,7 @@ int a=10,b=20;   //hardcode values
 int c=a+b;    //Addition of two numbers :)
 cout<<c;
 
+
  a=10,b=20;   //hardcode values
  c=a-b;    //subtraction of two numbers :)
 cout<<c;
@@ -17,4 +18,5 @@ cout<<c;
 a=10,b=20;   //hardcode values
  c=a/b;    //division of two numbers :)
 cout<<c;
+cout<<"This file is opened using the desktop app";
 }
